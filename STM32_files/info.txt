@@ -1,1 +1,0 @@
-This folder contains the files which can be opened on the STM32 cube IDE.
