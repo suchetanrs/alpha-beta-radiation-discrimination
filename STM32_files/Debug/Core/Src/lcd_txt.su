@@ -1,0 +1,4 @@
+../Core/Src/lcd_txt.c:4:6:lcd_init	8	static
+../Core/Src/lcd_txt.c:24:6:lcd_write	16	static
+../Core/Src/lcd_txt.c:87:6:lcd_puts	16	static
+../Core/Src/lcd_txt.c:129:6:lcd_clear	8	static
